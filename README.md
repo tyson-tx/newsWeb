@@ -1,0 +1,2 @@
+# newsWeb
+a simple website
